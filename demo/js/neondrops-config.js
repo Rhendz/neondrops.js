@@ -19,15 +19,9 @@ var neondrops = {
 
         // Speed
         duration: {
-            value: "1.5s",
+            value: "2.5s",
             random: true
         },
-
-        // Cycles
-        iteration: {
-            value: 3,
-            random: true
-        }
 
     }
 }

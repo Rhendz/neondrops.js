@@ -17,38 +17,38 @@
 
 #neondrops-js div.red {
     background-color: #FF1177;
-    -webkit-animation: red ease-in-out alternate;
-    animation: red ease-in-out alternate;
+    -webkit-animation: red ease-in;
+    animation: red ease-in;
 }
 
 #neondrops-js div.blue {
     background-color: #228DFF;
-    -webkit-animation: blue ease-in-out alternate;
-    animation: blue ease-in-out alternate;
+    -webkit-animation: blue ease-in;
+    animation: blue ease-in;
 }
 
 #neondrops-js div.yellow {
     background-color: #FFDD1B;
-    -webkit-animation: yellow ease-in-out alternate;
-    animation: yellow ease-in-out alternate;
+    -webkit-animation: yellow ease-in;
+    animation: yellow ease-in;
 }
 
 #neondrops-js div.green {
     background-color: #B6FF00;
-    -webkit-animation: green ease-in-out alternate;
-    animation: green ease-in-out alternate;
+    -webkit-animation: green ease-in;
+    animation: green ease-in;
 }
 
 #neondrops-js div.orange {
     background-color: #FF9900;
-    -webkit-animation: orange ease-in-out alternate;
-    animation: orange ease-in-out alternate;
+    -webkit-animation: orange ease-in;
+    animation: orange ease-in;
 }
 
 #neondrops-js div.violet {
     background-color: #BA01FF;
-    -webkit-animation: violet ease-in-out alternate;
-    animation: violet ease-in-out alternate;
+    -webkit-animation: violet ease-in;
+    animation: violet ease-in;
 }
 
 
