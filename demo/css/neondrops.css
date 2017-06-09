@@ -1,0 +1,217 @@
+/* Make sure the background color matches the @keyframe to */
+
+#neondrops-js {
+    width: 100%;
+    height: 100%;
+    background-color: #343d46;
+    margin: 0;
+    overflow: hidden;
+}
+
+#neondrops-js div {
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#neondrops-js div.red {
+    background-color: #FF1177;
+    -webkit-animation: red ease-in-out alternate;
+    animation: red ease-in-out alternate;
+}
+
+#neondrops-js div.blue {
+    background-color: #228DFF;
+    -webkit-animation: blue ease-in-out alternate;
+    animation: blue ease-in-out alternate;
+}
+
+#neondrops-js div.yellow {
+    background-color: #FFDD1B;
+    -webkit-animation: yellow ease-in-out alternate;
+    animation: yellow ease-in-out alternate;
+}
+
+#neondrops-js div.green {
+    background-color: #B6FF00;
+    -webkit-animation: green ease-in-out alternate;
+    animation: green ease-in-out alternate;
+}
+
+#neondrops-js div.orange {
+    background-color: #FF9900;
+    -webkit-animation: orange ease-in-out alternate;
+    animation: orange ease-in-out alternate;
+}
+
+#neondrops-js div.violet {
+    background-color: #BA01FF;
+    -webkit-animation: violet ease-in-out alternate;
+    animation: violet ease-in-out alternate;
+}
+
+
+/* Neon animations */
+
+@-webkit-keyframes red {
+    from {
+        background-color: #FF1177;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-moz-keyframes red {
+    from {
+        background-color: #FF1177;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@keyframes red {
+    from {
+        background-color: #FF1177;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-webkit-keyframes blue {
+    from {
+        background-color: #228DFF;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-moz-keyframes blue {
+    from {
+        background-color: #228DFF;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@keyframes blue {
+    from {
+        background-color: #228DFF;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-webkit-keyframes yellow {
+    from {
+        background-color: #FFDD1B;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-moz-keyframes yellow {
+    from {
+        background-color: #FFDD1B;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@keyframes yellow {
+    from {
+        background-color: #FFDD1B;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-webkit-keyframes green {
+    from {
+        background-color: #B6FF00;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-moz-keyframes green {
+    from {
+        background-color: #B6FF00;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@keyframes green {
+    from {
+        background-color: #B6FF00;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-webkit-keyframes orange {
+    from {
+        background-color: #FF9900;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-moz-keyframes orange {
+    from {
+        background-color: #FF9900;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@keyframes orange {
+    from {
+        background-color: #FF9900;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-webkit-keyframes violet {
+    from {
+        background-color: #BA01FF;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@-moz-keyframes violet {
+    from {
+        background-color: #BA01FF;
+    }
+    to {
+        background-color: inherit;
+    }
+}
+
+@keyframes violet {
+    from {
+        background-color: #BA01FF;
+    }
+    to {
+        background-color: inherit;
+    }
+}
