@@ -6,14 +6,14 @@
 $(document).ready(function() {
 
 	// Number of neon lights
-    var neonNum = neondrops.number.value;
+    	var neonNum = neondrops.number.value;
 
-    for (i = 0; i < neonNum; i++) {
-        generateNeonLight();
-    }
+	for (i = 0; i < neonNum; i++) {
+	     generateNeonLight();
+	}
 
 	function generateNeonLight() {
-		// Create neonLight obj
+	// Create neonLight obj
         var neonLight = $("<div></div>");
 
         // Set color
